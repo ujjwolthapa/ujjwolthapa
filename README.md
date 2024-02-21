@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ujjwol , a DevOps Enthusiast 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [LisNepal Pvt Ltd](https://lisnepal.com.np)  
+- 🔭 I’m currently working on AndMine.
   
 
 - 🌱 I’m currently learning  DevOps tools.  
